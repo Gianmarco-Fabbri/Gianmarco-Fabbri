@@ -1,5 +1,5 @@
-# 🧑‍💻 I'm Gianmarco, a computer science and engineering student
-- 📌 Currently studying at [University of Bologna](https://www.unibo.it)
+# 🧑‍💻 I'm Gianmarco, an M.Sc Cybersecurity engineering student.
+- 📌 Currently studying at [Politecnico of Torino]([https://www.polito.it])
 - 🌍 Based in Italy
 
 ## 🚀 Languages & Tools  
