@@ -8,7 +8,7 @@ Hello! I'm Gianmarco, a Master of Science student specializing in Cybersecurity 
 
 ## 💻 Technical Stack & Tools
 
-A selection of the languages and technologies I currently use and study:
+A selection of the languages and technologies I currently use or I studied in the last years:
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
@@ -22,14 +22,6 @@ A selection of the languages and technologies I currently use and study:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
----
-
-## 🚀 Current Focus & Goals (A.A. 2026/2027)
-
-* **Specialization:** Deepening knowledge in **Network Defense** and **Vulnerability Assessment** techniques.
-* **Mobility:** Planning an **Erasmus+ Traineeship** (3-month curricular internship) in the Netherlands (Group 1 destination) for Spring/Summer 2027.
-* **Open to Opportunities:** Seeking hands-on experience in areas like **Cloud Security, Threat Intelligence, or Security Auditing**. I'm actively looking for companies interested in hosting an Erasmus intern.
-
 ---
 
 ## 📊 GitHub Stats
