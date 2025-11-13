@@ -2,7 +2,7 @@
 
 ### 📍 Politecnico di Torino (PoliTO) | 🇮🇹 Italy
 
-Hello! I'm Gianmarco, a highly motivated Master of Science student specializing in **Cybersecurity Engineering** at the Politecnico di Torino. My focus is on building robust and resilient digital systems, blending theoretical cryptographic knowledge with practical application in network and system defense.
+Hello! I'm Gianmarco, a Master of Science student specializing in Cybersecurity Engineering at Politecnico di Torino (https://www.polito.it/didattica/corsi-di-laurea-magistrale/cybersecurity-engineering).
 
 ---
 
