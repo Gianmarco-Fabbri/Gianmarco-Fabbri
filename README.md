@@ -46,7 +46,7 @@ Cybersecurity Engineering graduate student focused on application security, runt
   <a href="https://www.linkedin.com/in/gianmarco-fabbri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
-  <a href="mailto:gianmarcofa@outlook.com">
+  <a href="mailto:gianmarcofabbri2@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a> 
   <a href="https://t.me/gianmarco_fabbri">
