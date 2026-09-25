@@ -8,6 +8,14 @@ Cybersecurity Engineering graduate student focused on application security, runt
 
 ---
 
+## Selected Projects
+
+- **[Kubernetes Runtime Security & Incident Response Lab](https://github.com/Gianmarco-Fabbri/k8s-security-incident-response)** — Academic lab combining Falco detection, a Python response handler and Cilium network policies. Includes regression tests, deployment instructions and explicit validation limits.
+- **[Theater Booking System](https://github.com/Gianmarco-Fabbri/react-theater-booking)** — Full-stack React and Express application with session authentication, role-based access control, admin TOTP and concurrency handling for seat reservations.
+- **[Periodic Task Layer for FreeRTOS](https://github.com/Gianmarco-Fabbri/PTL-FreeRTOS)** — Team project adding periodic scheduling, deadline checks and overrun policies to FreeRTOS, with a QEMU demo and regression tests.
+
+---
+
 ## Technical Skills
 
 **Languages**
