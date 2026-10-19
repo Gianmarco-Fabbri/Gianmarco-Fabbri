@@ -4,7 +4,7 @@
 
 ---
 
-Cybersecurity Engineering graduate student focused on application security, runtime threat detection, and secure software architecture. Experienced in building full-stack web applications with a security-first approach — from authentication and access control to containerized deployment. Interested in bridging the gap between software engineering and offensive/defensive security.
+Cybersecurity Engineering graduate student focused on cloud and application security, runtime threat detection, and secure software architecture. B.Sc. in Computer Science and Engineering from the University of Bologna, with a thesis on lattice-based post-quantum cryptography. Experienced in building full-stack web applications with a security-first approach — from authentication and access control to containerized deployment. Interested in bridging the gap between software engineering and offensive/defensive security, and in applying AI to cybersecurity.
 
 ---
 
@@ -13,6 +13,7 @@ Cybersecurity Engineering graduate student focused on application security, runt
 - **[Kubernetes Runtime Security & Incident Response Lab](https://github.com/Gianmarco-Fabbri/Kubernetes-Incident-Response)** — Academic lab combining Falco detection, a Python response handler and Cilium network policies. Includes regression tests, deployment instructions and explicit validation limits.
 - **[Theater Booking System](https://github.com/Gianmarco-Fabbri/Theater-Booking-System)** — Full-stack React and Express application with session authentication, role-based access control, admin TOTP and concurrency handling for seat reservations.
 - **[Periodic Task Layer for FreeRTOS](https://github.com/Gianmarco-Fabbri/PTL-FreeRTOS)** — Team project adding periodic scheduling, deadline checks and overrun policies to FreeRTOS, with a QEMU demo and regression tests.
+- **[100 Days War](https://github.com/Gianmarco-Fabbri/OOP23-100DaysWar)** — Java/Swing strategy game built by a four-person university team. I developed soldier interactions, the AI opponent and live statistics; the game includes procedural maps, save/load and automated tests.
 
 ---
 
@@ -25,6 +26,7 @@ Cybersecurity Engineering graduate student focused on application security, runt
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -41,7 +43,7 @@ Cybersecurity Engineering graduate student focused on application security, runt
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Falco](https://img.shields.io/badge/Falco-00AEC7?style=flat&logo=falco&logoColor=white)
-![Seccomp](https://img.shields.io/badge/Seccomp-FCC624?style=flat&logo=linux&logoColor=black)
+![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat&logo=cilium&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
